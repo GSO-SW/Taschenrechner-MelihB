@@ -39,6 +39,15 @@ namespace Taschenrechner
             //tbxErgebnis.Text = Convert.ToString(Ergbenis);
             #endregion
 
+            #region Subtraktion von zwei ganzen Zahlen
+
+            //int zahl1 = Convert.ToInt32(tbxZahl1.Text);
+            //int zahl2 = Convert.ToInt32(tbxZahl2.Text);
+
+            //int Ergbenis = zahl1 - zahl2;
+            //tbxErgebnis.Text = Convert.ToString(Ergbenis);
+            #endregion
+
         }
     }
 }
